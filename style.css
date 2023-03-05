@@ -1,0 +1,299 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap');
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: #fff;
+    font-weight: 900;
+    font-size: 76px;
+    text-transform: uppercase;
+    padding-left: 20%;
+}
+
+h2 {
+    color: #787488;
+    font-size: normal;
+}
+
+p {
+    color: #787488;
+    font-weight: 400;
+}
+
+.container {
+    width: 1170px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text_welcome {
+    margin-top: 6%;
+    width: 500px;
+}
+
+.welcome-images {
+    width: 670px;
+}
+
+.welcome {
+    background-color: #18171B;
+}
+
+body {
+    margin: 0;
+}
+
+.foto_one {
+    width: 570px;
+}
+
+.events {
+    background-color: #18171b;
+}
+
+.date {
+    width: 190px;
+    background-color: #242329;
+}
+
+.date_text {
+    font-weight: 900;
+    font-size: 76px;
+    text-transform: uppercase;
+    color: #F0F54B;
+    margin: auto;
+    margin-left: 25%;
+}
+
+.date_text2 {
+    font-weight: bold;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #F0F54B;
+    margin: auto;
+    margin-left: 35%;
+}
+
+.comment {
+    width: 380px;
+    background-color: #F0F54B;
+}
+
+.comment p {
+    font-weight: 900;
+    font-size: 28px;
+    color: #242329;
+    margin-left: 5%;
+}
+
+.events_flex {
+    margin-top: -5px;
+    display: flex;
+}
+
+.foto_two {
+    width: 570px;
+}
+
+.between {
+    width: 30px;
+}
+
+.comment2 {
+    width: 380px;
+    background-color: #F0F54B;
+}
+
+.comment2 p {
+    font-weight: 900;
+    font-size: 28px;
+    color: #242329;
+    margin-left: 5%;
+}
+
+.EVENTS {
+    width: 1170px;
+}
+
+.EVENTS_text {
+    color: #fff;
+    font-weight: 900;
+    font-size: 36px;
+    text-transform: uppercase;
+}
+
+.hip-hop {
+    background-color: #242329;
+    justify-content: space-between;
+}
+
+.hip-hop_text {
+    color: #fff;
+    font-weight: 900;
+    font-size: 36px;
+    text-transform: uppercase;
+}
+
+.top {
+    width: 370px;
+    height: 300px;
+    background-color: white;
+    text-align: center;
+}
+
+.bottom {
+    width: 370px;
+    height: 300px;
+}
+
+.text1 {
+    color: #D91D52;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10%;
+
+}
+
+.text2 {
+    color: #484652;
+    font-size: 20px;
+    font-weight: normal;
+    margin-top: -10%;
+}
+
+.text3 {
+    color: #18171b;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.cool_team {
+    width: 800px;
+}
+
+.cool_div {
+    display: flex;
+    padding-top: 30px;
+}
+
+.Footer {
+    background-color: #18171B;
+    width: 100%;
+    height: 500px;
+}
+
+.text-footer {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.text-small {
+    color: rgb(198, 91, 91);
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.text5 {
+    font-size: 20px;
+    font-weight: normal;
+    text-align: start;
+}
+
+.pixil {
+    width: 300px;
+    height: 300px;
+    margin-top: -100px;
+}
+
+.what_people_say {
+    background-color: #18171B;
+
+}
+
+.say {
+    background-color: white;
+    width: 400px;
+    height: 270px;
+    padding-left: 25px;
+    padding-right: 40px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.what1 {
+    display: flex;
+}
+
+.what2 {
+    padding-left: 25px;
+    display: flex;
+}
+
+.big_what {
+    display: flex;
+    padding-top: 25px;
+}
+
+.biggest_div {
+    flex-wrap: nowrap;
+}
+
+.citat {
+    font-size: 20px;
+    color: #18171B;
+}
+
+.author {
+    font-size: 20px;
+    color: #D91D52;
+    font-weight: bold;
+    align-items: flex-end;
+}
+
+.drill {
+    width: 100%;
+}
+
+header {
+    background-image: url('images/parallax1.jpg');
+    height: 720px;
+
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.menu {
+    display: flex;
+    margin-left: 20%;
+}
+
+.bottom_text2 {
+    padding-left: 15px;
+    font-size: 20px;
+    color: #F0F54B;
+}
+
+.bottom_text {
+    padding-left: 20px;
+    font-size: 20px;
+    color: #d91d52;
+}
+
+.botton {
+    width: 200px;
+    height: 80px;
+    background-color: #D91D52;
+    margin-left: 20%;
+}
+
+.botton p {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 80px;
+}
